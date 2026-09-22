@@ -47,3 +47,5 @@
 // Um cartao precisa nascer ja apoiado: contagem em 1 e botao escrito Apoiado.
 // O que voce mudaria no JavaScript para ele funcionar direito desde o primeiro clique?
 // E por que a sua solucao nao serve para os outros cartoes?
+
+
